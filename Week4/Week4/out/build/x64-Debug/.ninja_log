@@ -1,0 +1,27 @@
+# ninja log v5
+33	1474	7665956799393250	CMakeFiles/Week4Castle.dir/C_/Users/prabh/Desktop/Assignment_1/Common/d3dUtil.cpp.obj	4668319eadceee6a
+83	573	7665956790398040	CMakeFiles/Week4Castle.dir/C_/Users/prabh/Desktop/Assignment_1/Common/GameTimer.cpp.obj	adafaa2b41033c05
+31	419	7666072815343994	CMakeFiles/Week4Castle.dir/C_/Users/prabh/Desktop/Assignment_1/Common/GeometryGenerator.cpp.obj	3b0cb2ea7d056b84
+70	782	7665956792468448	CMakeFiles/Week4Castle.dir/C_/Users/prabh/Desktop/Assignment_1/Common/MathHelper.cpp.obj	eb8f40e4bcf28dd3
+22	1450	7665956799133277	CMakeFiles/Week4Castle.dir/FrameResource.cpp.obj	e9cc39c3c54346db
+1261	1568	7666073811914861	Week4Castle.exe	ac492dea0e355e3d
+2	1050	7665984145251888	CMakeFiles/Week4Castle.dir/C_/Users/prabh/Desktop/Assignment_1/Common/d3dApp.cpp.obj	edfc4bc2ba198fa9
+18	1260	7666073809330119	CMakeFiles/Week4Castle.dir/Week4-6-ShapeComplete.cpp.obj	15d5c34082d099c0
+14	1263	7666077142596726	CMakeFiles/Week4Castle.dir/Week4-6-ShapeComplete.cpp.obj	15d5c34082d099c0
+1264	1492	7666077144447013	Week4Castle.exe	ac492dea0e355e3d
+3	1242	7666078915160001	CMakeFiles/Week4Castle.dir/Week4-6-ShapeComplete.cpp.obj	15d5c34082d099c0
+1243	1535	7666078917594465	Week4Castle.exe	ac492dea0e355e3d
+22	1260	7666079694214740	CMakeFiles/Week4Castle.dir/Week4-6-ShapeComplete.cpp.obj	15d5c34082d099c0
+1261	1473	7666079695945241	Week4Castle.exe	ac492dea0e355e3d
+26	1374	7666080170246213	CMakeFiles/Week4Castle.dir/Week4-6-ShapeComplete.cpp.obj	15d5c34082d099c0
+1375	1705	7666080172990361	Week4Castle.exe	ac492dea0e355e3d
+16	1263	7666081863083316	CMakeFiles/Week4Castle.dir/Week4-6-ShapeComplete.cpp.obj	15d5c34082d099c0
+1264	1504	7666081865080386	Week4Castle.exe	ac492dea0e355e3d
+17	1268	7666082063226547	CMakeFiles/Week4Castle.dir/Week4-6-ShapeComplete.cpp.obj	15d5c34082d099c0
+1269	1572	7666082065737908	Week4Castle.exe	ac492dea0e355e3d
+21	1333	7666082303860109	CMakeFiles/Week4Castle.dir/Week4-6-ShapeComplete.cpp.obj	15d5c34082d099c0
+1334	1587	7666082305900648	Week4Castle.exe	ac492dea0e355e3d
+2	1218	7666084352421295	CMakeFiles/Week4Castle.dir/Week4-6-ShapeComplete.cpp.obj	15d5c34082d099c0
+1219	1527	7666084354995912	Week4Castle.exe	ac492dea0e355e3d
+16	1304	7666085012034919	CMakeFiles/Week4Castle.dir/Week4-6-ShapeComplete.cpp.obj	15d5c34082d099c0
+1304	1542	7666085013971702	Week4Castle.exe	ac492dea0e355e3d
